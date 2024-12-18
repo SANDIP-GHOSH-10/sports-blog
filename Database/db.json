@@ -1,0 +1,2286 @@
+{
+  "auth": [
+    {
+      "id": "1",
+      "name": "Sandip Ghosh",
+      "email": "sghosh@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "9a76",
+      "name": "achintya",
+      "email": "achintya@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "c8d9",
+      "name": "SANDIP GHOSH",
+      "email": "sandipghosh591@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "cd0e",
+      "name": "sanju",
+      "email": "sandipghoshbqa@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "3c51",
+      "name": "Anichinya",
+      "email": "achintya123@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "e8e0",
+      "name": "Raj",
+      "email": "raj@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "e217",
+      "name": "raj",
+      "email": "rajkumar@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "d993",
+      "name": "SANDIP GHOSH",
+      "email": "sandip@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "245e",
+      "name": "Sandip Ghosh",
+      "email": "sandipghosh@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "c516",
+      "name": "SANDIP GHOSH",
+      "email": "sandipghosh22@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "0fbb",
+      "name": "Soumi GHOSH",
+      "email": "soumi@gmail.com",
+      "password": "123456789"
+    }
+  ],
+  "booking": [
+    {
+      "id": "3efb",
+      "RoomType": "Service Apartment",
+      "arrival": "2024-10-23",
+      "departure": "2024-10-31",
+      "travel": "LEISURE",
+      "NoOfGuest": "4",
+      "GuestName": "Chota Bheem",
+      "Aadhar": "675676789897",
+      "address": "Dholakpur"
+    }
+  ],
+  "latestBlog": [
+    {
+      "id": "1",
+      "title": "Mohammed Shami Suffers Nasty Fall During Elite BCCI Tournament, Looks Uncomfortable.",
+      "description": "Swashbuckling batter Ishan Kishan struck nine sixes during a scintillating 23-ball unbeaten 77-run knock as Jharkhand recorded a thumping 10-wicket win over Arunachal Pradesh in a Group C match of Syed Mushtaq Ali Trophy match  on Friday. Meanwhile in Rajkot, India pacer Mohammed Shami had an injury scare during Bengal's Group A match against Madhya Pradesh at the Saurashtra Cricket Association Stadium.However, more than anything else, it was Shami's close shave that made headlines in the match. While bowling the penultimate over of the MP innings, Shami fell in a bid to stop the ball and seemed to have got hit on his boots.The pacer, coming back from a long injury layoff, looked uncomfortable and held his lower back while lying on the ground.Nitin Patel, head of the Centre of Excellence's medical panel and who was being flown in to track Shami, promptly entered the field to check on the bowler. The fall, however, hasn't resulted in any serious injury.In the Group C match involving Kishan's Jharkhand.The wicketkeeper-batter was acquired by Sunrisers Hyderabad for a sum of Rs 11.25 crore in the IPL mega auction in Jeddah, Saudi Arabia on Sunday.",
+      "img_url": "https://c.ndtvimg.com/2024-10/gnf6pe7g_mohammed-shami-bcci_625x300_22_October_24.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605"
+    },
+    {
+      "id": "2",
+      "title": "1st Test: South African Bowlers Strike After Sri Lanka Set Big Target",
+      "description": "Tristan Stubbs and Temba Bavuma hit centuries to put South Africa in an impregnable position before their bowlers dismissed five Sri Lankan batsmen on the third day of the first Test at Kingsmead on Friday. Stubbs (122) and Bavuma (113) ground down the Sri Lankan bowlers in a fourth wicket stand of 249 before South Africa declared their second innings at tea after scoring 366 for five. Set a massive 516 to win, Sri Lanka were 103 for five at the close.",
+      "img_url": "https://c.ndtvimg.com/2024-11/10ej3fs_south-africa-marco-jansen-afp_625x300_29_November_24.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605"
+    },
+    {
+      "id": "3",
+      "title": "Jemimah Rodrigues Retires Hurt In WBBL, Raises Concerns About Participation In ODIs Against Australia",
+      "description": "India batter Jemimah Rodrigues retired hurt due to a possible left wrist injury after guiding Brisbane Heat to victory over Sydney Thunder in a Women's Big Bash League match in Brisbane on Friday. The injury raises concerns about her availability for the three-match ODI series against Australia starting December 5. Brisbane Heat thrashed Sydney Thunder by nine wickets at the Allan Border Field to set up a title clash against Melboune Renegades on Sunday at the MCG. Rodrigues made 43 off 30 balls before retiring hurt after the 10th over of Heat's run chase of 134. She was dropped three times by Sydney Thunder fielders.",
+      "img_url": "https://c.ndtvimg.com/2024-10/4q57r75o_jemimah-rodrigues-bcci_625x300_06_October_24.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605"
+    },
+    {
+      "id": "4",
+      "title": "Pink-Ball Practice Match Points: Fit-Again Shubman Gill Gets Quality Match Time, Rohit Sharma Keeps People Guessing",
+      "description": "Shubman Gill dispelled all doubts about his thumb injury with a stylish fifty even as skipper Rohit Sharma kept cards close to his chest by coming in at No. 4 in India's curtailed pink-ball warm-up game against Prime Minister's XI in Canberra on Sunday. The visitors won the match by six wickets. It, however, remains to be seen if the Indian captain would come out to open in the second Test against Australia, starting Friday in Adelaide. It was a 46-overs-a-side affair, which India won by chasing down an easy target of 241 in 42.5 overs, but they carried on batting till the end of the final over.",
+      "img_url": "https://c.ndtvimg.com/2024-12/l89n4bvo_shubman-gill-afp_625x300_01_December_24.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605"
+    },
+    {
+      "id": "5",
+      "title": "Sachin Tendulkar Wasn't A Big Name Ex-Australia Cricketer-Turned-Lawyer Who Got Him Out In 1991/92 PM's XI Game",
+      "description": "Arguably the greatest batsman of all time, Sachin Tendulkar amassed nearly 16,000 Test runs in a glittering career. Tendulkar is also the highest scorer among Indian batters in Australia. However, when an 18-year old Sachin Tendulkar toured Australia in the summer of 1991/92, he wasn't so popular. On the eve of India's warm-up match against the Prime Minister's XI, Greg Rowell, an Australian lawyer who used to be a first-class cricketer, has narrated a heartwarming story of how he got Tendulkar out in the same game 23 years ago.Rowell had dismissed not only Tendulkar, but also Ravi Shastri in the 'Prime Minister's XI vs India' game in 1991. The latter was a renowned all-rounder at that time. A fast bowler, Rowell ended the game with stunning figures of 7/27. Sachin Tendulkar wasn't such a big name then; Ravi Shastri was, said Rowell, in a conversation with The Indian Express. Oh, by the end of the series though, I would know who Tendulkar really was, Rowell added. That was because Tendulkar had made a serious mark on Australian soil even at the age of 18. Although Australia had demolished India 4-0 in the five-match Test series, Sachin Tendulkar had shone bright. Tendulkar had finished the series as India's highest run-scorer. The 18-year-old slammed 368 runs in five Tests, including two centuries. Interestingly, Shastri also performed well in the series, scoring 300 runs in just three games, and finishing as India's second-highest run-scorer. Rowell had been part of a Prime Minister's XI that included several future Australia greats and regulars. The likes of Shane Warne, Matthew Hayden, Michael Bevan, Damien Fleming and Damien Martyn were all Rowell's teammates in that game. Allan Border had captained the side. It was televised nationally, and for us first-class players, it was a game where the country saw and judged you, revealed Rowell. Rowell made it as far as Australia A, playing against the senior Australia side, but failed to carve out a long career in professional cricket. Rowell switched professions, becoming a lawyer, before eventually winding up as a board member of Cricket Australia.",
+      "img_url": "https://c.ndtvimg.com/2024-11/10ej3fs_south-africa-marco-jansen-afp_625x300_29_November_24.jpg?im=FeatureCrop,algorithm=dnn,width=806,height=605"
+    },
+    {
+      "id": "6",
+      "title": "Gambhir flies back to rejoin India Test squad in Australia",
+      "description": " Gautam Gambhir Indias head coach will rejoin the touring party in Australia on Tuesday having flown out of India after having returned home because of personal reasonsGambhir missed Indias twoday tour game  which was later reduced to a limitedovers contest following rain on the first day  against the Australian Prime Ministers XI in Canberra having flown back home at the conclusion of the first Test in Perth on November 25 Gambhir left on November 26 the scheduled final day of that Test The second Test of the BorderGavaskar Trophy a daynighter in Adelaide will start on December 6In Gambhirs absence the support staff of Abhishek Nayar Ryan ten Doeschate and Morne Morkel had overseen the teams training and were part of the Canberra fixture which the Indians won by six wickets with Harshit Rana 4 for 44 and Shubman Gill 50 in 62 balls playing key rolesNow Gambhir will have to be part of the tricky discussions around Indias playing XI with Rohit Sharma the fulltime Test captain having linked up with the team after skipping the first Test to be with his wife for the birth of their second child Jasprit Bumrah had led India to the comprehensive 295run win in the Perth Test in Rohits absenceGill who had also missed that Test after fracturing his right thumb during a training session is also back in the reckoning Even if India bring in Rohit and Gill for Devdutt Padikkal and Dhruv Jurel who were part of the XI in Perth there is the question of the opening combination with Yashasvi Jaiswal and KL Rahul having put on a doublecentury firstwicket stand in Indias second innings in Perth Indications from the pinkball tour game though it wasnt a fullfledged contest are that Jaiswal and Rahul will continue to open with Gill replacing Padikkal at No 3 and Rohit possibly going in the middle order behind Virat Kohli Rishabh Pant is the other certain starter in the middle order",
+      "img_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/391000/391019.6.jpg"
+    },
+    {
+      "id": "7",
+      "title": "Its everything Ive dreamed of  Bethell eager for more after Test taste",
+      "description": "Hitting the winning run in a Test match that takes you to a halfcentury on debut Walking off alongside Englands alltime leading runscorer Joe Root Sunday was just another of a series of bucketlist moments for Jacob Bethell Since September the 21yearold has enjoyed life in Englands priority lane ticking off T20I and ODI caps against Australia and West Indies registering three whiteball halfcenturies against the latter This first against the red was right out of his limitedovers playbook taking just 37 deliveries as the tourists chased 104 inside 13 overs to beat New Zealand by eight wickets in Christchurch They take a 10 lead to Wellington It was a hell of a lot of fun yeah Bethell said And to walk off with Rooty who made 23 off 15 at the end there was pretty special To come out in the second innings and have a chance to walk off with an England win was at the forefront of my mind and luckily I was able to do that  Jacob Bethell debut fifty Brydon Carse tenfor seal England victory speed run was in keeping with how England attack smaller targets Barring a thick inside edge to get him off the mark the other eight boundaries were real statements shots Especially a pull for six on to the grass banks of the Hagley Oval off fellow debutant Nathan Smith Smith did not take kindly to Bethells onslaught having copped four boundaries off the lefthander in his first over and went to bouncers Bethell however is no stranger to shortpitched bowling He was reared on it in Barbados  born and raised  as a regular target of the intimidatory tactics of bigger kids I was very small growing up so I didnt really get a lot in my half up until I was about 16 or 17 when I got a bit bigger he said I never had as much power on it but I could still play it well And now its just a decision on whether to hit it on the ground or hit it for six Such confidence delivered with a mixed Bajan and Brummie accent that has a distinctly Welsh feel  which almost makes sense as the crow flies  is why England had no qualms placing him at No 3 Even his first innings was met with something of a shrug Conditions were tough New Zealands seamers up and at them Bethell backed himself but managed just 10 from 34 balls  only getting off the mark with his 13th still on one after 26  before Smith snicked him off Roots dismissal then had England reeling on 45 for 3 at lunch on day two Thats part of the game isnt it Bethell said like hed been here before I saw it as if I got through to lunch it looked like a different pitch after lunch It does help when youve got Harry Brook batting he makes it look quite easy Since I was a little kid Ive always dreamed of playing Test cricket I remember watching the Ashes and just any England Tests on TV and wanting to be a part of it I think it could have been a different story I battled hard and unluckily didnt make it through to lunch but another day you get through and go on to make a big one then since Baz Brendon McCullum took over with Stokesy Ive always watched it on TV and gone how fun that does that look and it lived up to expectation It was so fun ",
+      "img_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/392100/392142.6.jpg"
+    },
+    {
+      "id": "8",
+      "title": "Injured Coetzee ruled out of second Sri Lanka Test and all-format Pakistan series",
+      "description": "In a huge blow for South Africa fast bowler Gerald Coetzee has been ruled out of the second Test against Sri Lanka in Gqeberha as well as the upcoming allformat series against Pakistan due to a groin injury Coetzee who picked up the injury while bowling on day four of the Durban Test against Sri Lanka is expected to be out for up to six weeks after scans revealed a muscle strain in his right groin He will be replaced in the squad by fast bowler Kwena Maphaka who made his international debut earlier this year in the T20Is against West Indies. Coetzee bowled in the morning session of the Durban Test on Saturday beginning proceedings with Kagiso Rabada but stopped after a threeover spell His second spell of the morning was off just two overs as Dhananjaya de Silva and Dinesh Chandimal staged a spirited fightback for Sri Lanka after they had started the day five down and looking at a bigger defeat than they eventually suffered Coetzee didnt bowl again after that in the session but did bowl three overs after lunch sending back Chandimal caught and bowled.Shukri Conrad the South Africa coach said after the days play that Coetzee had spoken to him at lunch and told him he felt a groin niggle and went back after the break strapped up.Coetzees absence adds to South Africas injury woes as they are already without Wiaan Mulder the fastbowling allrounder due to a fractured right middle finger .Two of South Africas three quicks that played the Durban Test  Rabada and PlayeroftheMatch Marco Jansen  are fit for the second Test and Dane Paterson is the other quick in the squad However Nandre Burger is out for the summer with a lower back stress fracture while Lungi Ngidi is out till January.South Africa will play Sri Lanka in the second Test at St Georges Park between December 5 and 9 After that they will host Pakistan for three T20Is three ODIs and two Tests. ",
+      "img_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/391900/391979.6.jpg"
+    },
+    {
+      "id": "9",
+      "title": "Suryakumar to play remaining Syed Mushtaq Ali Trophy games and Vijay Hazare Trophy",
+      "description": " India T20I captain Suryakumar Yadav will be back in action for Mumbais next Syed Mushtaq Ali Trophy SMAT game against Andhra on December 3 after taking a twoweek break to attend a family function He is expected to play the remainder of the tournament and also feature in the 50over Vijay Hazare Trophy starting December 21.Its likely Suryakumar will not lead Mumbai in SMAT with Shreyas Iyer in charge till now and expected to continue in that position It is understood that Suryakumar is fine with Iyer continuing as the captain and is ready to bat at any position that the team management feels is suitable for him. Suryakumar who led India to an emphatic 31 series win over South Africa recently will link up with the Mumbai squad in Hyderabad on Monday and is expected to turn up for the next game Placed fourth in Group E Mumbai have won two of their three games so far and have two league games left after Sunday when they play against Nagaland.The ongoing SMAT has seen a number of highprofile names participate after the T20I tour of South Africa such as Hardik Pandya Iyer Tilak Varma Rinku Singh Yuzvendra Chahal Varun Chakravarthy and others Suryakumar had also played one round of the Ranji Trophy in October before leaving for South Africa",
+      "img_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/388700/388739.6.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Jay Shah begins term as ICC chair with Champions Trophy venue decision imminent",
+      "description": "Jay Shah has begun his tenure as ICC chair as of December 1 He takes over from Greg Barclay over the weekend with the decision on the venue for the 2025 Champions Trophy imminent.I am honoured to take on the role of ICC chair and grateful for the support and trust of the ICC directors and member boards Shah said in a statement on his first day in the role This is an exciting time for the sport as we prepare for the LA28 Olympic Games and work to make cricket more inclusive and engaging for fans worldwide.We are at a critical juncture with the coexistence of multiple formats and the need to accelerate the growth of the womens game Cricket holds immense potential globally and I look forward to working closely with the ICC team and Member countries to seize these opportunities and take the sport to new heights.Shah was elected unopposed and at the age of 36 he is the youngest ICC chair Before moving to the ICC he was the BCCI secretary and it is not yet known who will succeed him in that role He also served as the president of the Asian Cricket Council and as chair of the ICCs finance and commercial affairs committee.A significant decision immediately facing the ICC is the venue of the 2025 Champions Trophy which is supposed to be Pakistan Imran Khwaja the ICC deputy chair has been acting as the interim chair and presided over the short board meeting on Friday It is expected he will see through the Champions Trophy issue as the interim chair.The tournament is scheduled to begin on February 19 and the fixtures havent been announced yet following the BCCIs refusal to send the Indian team to play in Pakistan citing government advice The PCB had been firm in its stance that it wanted to host all the Champions Trophy matches in Pakistan after it sent a team to play the 2023 ODI World Cup in India but a compromise may be reached where all the matches involving India may be played at a neutral venue A final decision is expected imminently",
+      "img_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/374500/374525.6.jpg"
+    },
+    {
+      "id": "11",
+      "title": "What do India, Australia, South Africa et al still have to do to make the WTC final?",
+      "description": "South Africas comprehensive win in Durban is one tick in the bag out of the four they need to be certain of a place in the WTC final irrespective of other results If they lose the second Test against Sri Lanka and win both against Pakistan they would still have a fair chance of qualifying at 6111 but Sri Lanka and India could both go past them  Sri Lanka if they win 20 against Australia and India if they win at least three of their remaining four Tests against Australia Australia can go past 6111 too with four wins and a draw but in that case both India and Sri Lanka would finish below South Africa.If South Africa beat Sri Lanka in the second Test and draw 11 against Pakistan they would still finish on 6111 but they would be assured of a place in the final as Sri Lanka would only get to 5385 if they win both Tests against Australia Thus only one of Australia or India can go past South Africa in that case.The Durban defeat means Sri Lanka can finish with a maximum of 6154 if they win their three remaining Tests That would still guarantee a place in the final as only India or Australia can finish higher If they lose one more Test and win two their percentage will drop to 5385 which would then leave them depending on several other results Currently South Africa India Australia and New Zealand.New Zealands sloppy fielding in Christchurch might have scuppered any realistic chance of making their second WTC final A 30 series win against England would have taken them to 6429 but this defeat means the maximum they can achieve is 5714 This could still be enough for them to finish among the top two  or even on top of the table  but for that several results would have to go in their favour For instance if the AustraliaIndia series finishes 11 as do South Africas two home series and Sri Lankas home series against Australia then New Zealand will still top the table with 5714 If one of those teams go past 5714 New Zealand could yet finish second but that still leaves them depending on too many other results.Indias emphatic win in Perth takes them back to the top of the WTC points table and keeps their chances of making it to the final at Lords next year very much alive To be certain of finishing among the top two India need to beat Australia 30 that would lift India to 6228 which would be more than Sri Lankas maximum of 6154 if they were to win their three remaining Tests and more than South Africas 6111 if they were to beat Pakistan 20 but not sweep Sri Lanka If South Africa were to sweep Sri Lanka as well 20 they would get to 6944 meaning India with three wins and two draws in Australia would be second on the points table.However these scenarios are based on other teams maximising their points If that doesnt happen India could still make it with far fewer points If for example these results happen from the key upcoming series.India lose to Australia 23 New Zealand draw with England 11 South Africa draw 11 at home in both their remaining series versus Sri Lanka and Pakistan Australia draw 00 in Sri Lanka Australia would finish on top at 5877 but Indias 5351 would still be enough for second place ahead of South Africa 5278 New Zealand 5238 and Sri Lanka 5128 Thus where India finish up also depends on how the other results pan out. Australia Percent 5769 matches remaining Ind 4 home Tests SL 2 away The defeat in Perth means Australia have plenty to do to finish in the top two without depending on other results Given that South Africa and Sri Lanka can both finish on more than 61 Australia need four wins and a draw in their last six to finish ahead of Sri Lankas maximum of 6154 in this case only South Africa with a maximum of 6944 could finish ahead of them. If India were to win the ongoing series 32 Australia could still finish ahead of them but only if they sweep the away series against Sri Lanka 20 In this case Australia would finish on 6053 marginally ahead of Indias 5877 In that case they would surely finish in the top two as only South Africa could go past that Pakistan Percent 3333 series remaining SA 2 away WI 2 home Pakistans home form has shown some revival but its most likely too late in this cycle If they win each of their four remaining Tests they would finish on 5238 In such a case they would still need several results going their way to be in contention If for instance Sri Lanka lose 01 in South Africa and draw 11 against Australia India lose 12 in Australia and New Zealand lose 12 versus England then Pakistans 5238 would be enough for a second place behind Australia England Percent 4375 matches remaining NZ 2 away Englands win in Christchurch has marginally improved their percentage to 4375 Its almost certain that it wont be enough for qualification though theres a mathematical chance of finishing second on 4886 if several other results go their way if India lose all their remaining games and if South Africa and Sri Lanka get no more than six and 16 points respectively from their last three Tests then England could still finish second to Australia",
+      "img_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/361200/361250.6.jpg"
+    },
+    {
+      "id": "12",
+      "title": "Not something that requires work - Latham not worried about New Zealand's catching",
+      "description": "Tom Latham New Zealands Test captain dismissed the notion that his team need to work on their catching after a litany of errors contributed to a chastening eightwicket defeat in the first Test against England.The hosts dropped a staggering eight catches in the tourists first innings with Harry Brook the lucky recipient of five of them on his way to a crucial 171.The lives allowed England to emerge from the first innings of the match with a 151 lead They were able to cash in on day four chasing down a mode Players on both sides struggled to see the ball clearly at the Hagley Oval particularly with the grass banks as packed as they were across all four days But Latham refused to use that as an excuse for their disappointing display in the field.I dont think its something that requires work said the skipper who was guilty of shelling Ben Duckett on 23 who went on to make 46 and Brook on 41 on day two.We certainly put the work in behind the scenes training days that sort of thing It certainly hasnt been a continuous thing thats been happening Its just one of those games  sometimes when one goes down they all keep falling We like to stay nice and level and try not to overemphasise things.Sometimes some grounds have different challenges with different backgrounds From our point of view were not looking for excuses.We know we need to be better and well hopefully do that in Wellington.Chris Woakes had Tom Blundell first ball New Zealand vs England 1st Mens Test 3rd day Christchurch November 30 2024. Tom Blundell had another poor outing but Tom Latham gave him his backingAssociated Press. It was a broadly untidy performance from the Black Caps Having been put in to bat after Ben Stokes won the toss they reached 199 for 3 before falling to 348 all out But for Kane Williamsons 93 and 58 from Glenn Phillips it could have been worse Then came the catching issues which in turn allowed England to rebuild their first innings from 45 for 3 then 71 for 4 Latham ceded the team have plenty to tidy up ahead of Fridays second Test at the Basin Reserve But he feels the margin of Englands victory wrapped up inside four days did not reflect a gap in quality between the two sides.To have them 70 for 4 with our tails up if we take some catches  certainly myself included  things might look slightly differently Latham said.Even though the result of the game does look quite big there are small margins in a game of cricket and unfortunately things didnt quite fall the right way By no means of not trying  boys are putting the effort in and some days thats just cricket  its the game we play  unfortunately things like that happen.Latham also backed Tom Blundell to find form reiterating his belief the 34yearold is the best option as keeperbatter Scores of 17 and a firstball duck continues a dismal 2024 for Blundell who is currently averaging 1588 from ten matches Will Young having been dropped for the returning illiamson despite his player of the series display during the 30 victory in India could come in to bolster the batting Who that is for remains to be seen.Devon Conway  who is also struggling with an average of 2343 this year  and Latham himself could take the gloves paving the way to reintroduce Young for Blundell Latham however has backed his regular gloveman to come good.I certainly believe Tom is our best wicketkeeperbatsman in the country And we certainly have the belief to give him the backing to play his natural game.Youre one innings away from being back in form Hes putting in the work behind the scenes as much as anyone We certainly know for him the results are not far away",
+      "img_url": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_1280,q_70/lsci/db/PICTURES/CMS/391800/391875.6.jpg"
+    }
+  ],
+  "players": [
+    {
+      "id": "1",
+      "country": "India",
+      "playerName": "Virat Kohli",
+      "role": "Batter",
+      "battingStyle": "Right-hand Bat",
+      "bowlingStyle": "Right-arm Medium",
+      "dob": "Nov 5, 1988",
+      "age": "36",
+      "jerseyNo": "18",
+      "image": "https://images.indianexpress.com/2023/11/APTOPIX_India_Cricket_WCup_55283-6f371.jpg?w=640",
+      "about": "Known for his consistency and aggressive batting, Virat Kohli is a modern-day cricket legend.",
+      "battingStats": {
+        "matches": 283,
+        "innings": 274,
+        "runs": 12809,
+        "highestScore": "183",
+        "average": 57.72,
+        "strikeRate": 93.17,
+        "centuries": 46,
+        "halfCenturies": 65
+      },
+      "bowlingStats": {
+        "matches": 283,
+        "innings": 48,
+        "wickets": 4,
+        "bestBowling": "1/15",
+        "average": 166,
+        "economy": 6.22,
+        "strikeRate": 160.5
+      },
+      "fieldingStats": {
+        "catches": 138,
+        "runOuts": 17,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "2",
+      "country": "India",
+      "playerName": "Rohit Sharma",
+      "role": "Batter",
+      "battingStyle": "Right-hand Bat",
+      "bowlingStyle": "Right-arm Offbreak",
+      "dob": "Apr 30, 1987",
+      "age": "37",
+      "jerseyNo": "45",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Prime_Minister_Of_Bharat_Shri_Narendra_Damodardas_Modi_with_Shri_Rohit_Gurunath_Sharma_%28Cropped%29.jpg",
+      "about": "Rohit Sharma is known for his explosive batting and is the only player to have scored three double centuries in ODIs.",
+      "battingStats": {
+        "matches": 233,
+        "innings": 230,
+        "runs": 9200,
+        "highestScore": "264",
+        "average": 49.34,
+        "strikeRate": 89.39,
+        "centuries": 29,
+        "halfCenturies": 42
+      },
+      "bowlingStats": {
+        "matches": 233,
+        "innings": 30,
+        "wickets": 8,
+        "bestBowling": "3/25",
+        "average": 42.75,
+        "economy": 5.18,
+        "strikeRate": 47.2
+      },
+      "fieldingStats": {
+        "catches": 156,
+        "runOuts": 14,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "3",
+      "country": "Australia",
+      "playerName": "Steve Smith",
+      "role": "Batter",
+      "battingStyle": "Right-hand Bat",
+      "bowlingStyle": "Legbreak",
+      "dob": "Jun 2, 1989",
+      "age": "35",
+      "jerseyNo": "49",
+      "image": "https://circleofcricket.com/post_image/post_image_70586f0.jpg",
+      "about": "Steve Smith is one of the best Test batsmen in the world, known for his unorthodox technique and consistency.",
+      "battingStats": {
+        "matches": 92,
+        "innings": 91,
+        "runs": 8140,
+        "highestScore": "239",
+        "average": 60.89,
+        "strikeRate": 53.34,
+        "centuries": 27,
+        "halfCenturies": 36
+      },
+      "bowlingStats": {
+        "matches": 92,
+        "innings": 11,
+        "wickets": 4,
+        "bestBowling": "2/12",
+        "average": 38.25,
+        "economy": 4.19,
+        "strikeRate": 45.6
+      },
+      "fieldingStats": {
+        "catches": 128,
+        "runOuts": 21,
+        "stumpings": 0
+      },
+      "rating": 4
+    },
+    {
+      "id": "4",
+      "country": "England",
+      "playerName": "Ben Stokes",
+      "role": "All-rounder",
+      "battingStyle": "Left-hand Bat",
+      "bowlingStyle": "Right-arm Fast-Medium",
+      "dob": "Jun 4, 1991",
+      "age": "33",
+      "jerseyNo": "55",
+      "image": "https://images.news18.com/ibnlive/uploads/2024/10/ben-stokes-2024-10-bd7475a3581194546dcf4c2f9d61d4d3.jpg?impolicy=website&width=360&height=270",
+      "about": "Ben Stokes is known for his match-winning performances and has been one of the best all-rounders in modern cricket.",
+      "battingStats": {
+        "matches": 79,
+        "innings": 75,
+        "runs": 5100,
+        "highestScore": "258",
+        "average": 37.78,
+        "strikeRate": 57.45,
+        "centuries": 12,
+        "halfCenturies": 25
+      },
+      "bowlingStats": {
+        "matches": 79,
+        "innings": 123,
+        "wickets": 162,
+        "bestBowling": "6/36",
+        "average": 32.58,
+        "economy": 4.22,
+        "strikeRate": 50.5
+      },
+      "fieldingStats": {
+        "catches": 67,
+        "runOuts": 12,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "5",
+      "country": "New Zealand",
+      "playerName": "Kane Williamson",
+      "role": "Batter",
+      "battingStyle": "Right-hand Bat",
+      "bowlingStyle": "Right-arm Offbreak",
+      "dob": "Aug 8, 1990",
+      "age": "34",
+      "jerseyNo": "22",
+      "image": "https://s.rfi.fr/media/display/203c82c8-2de4-11ef-a901-005056a90284/w:1280/p:1x1/76da946a95ce57c3ef776eee4f49f1f951748484.jpg",
+      "about": "Kane Williamson is renowned for his calm demeanor and remarkable consistency in all formats of the game.",
+      "battingStats": {
+        "matches": 188,
+        "innings": 182,
+        "runs": 7180,
+        "highestScore": "189",
+        "average": 53.51,
+        "strikeRate": 74.96,
+        "centuries": 15,
+        "halfCenturies": 40
+      },
+      "bowlingStats": {
+        "matches": 188,
+        "innings": 25,
+        "wickets": 8,
+        "bestBowling": "2/18",
+        "average": 54.62,
+        "economy": 5.38,
+        "strikeRate": 72.4
+      },
+      "fieldingStats": {
+        "catches": 107,
+        "runOuts": 14,
+        "stumpings": 1
+      },
+      "rating": 5
+    },
+    {
+      "id": "6",
+      "country": "South Africa",
+      "playerName": "AB de Villiers",
+      "role": "Batter",
+      "battingStyle": "Right-hand Bat",
+      "bowlingStyle": "Right-arm Medium",
+      "dob": "Feb 17, 1984",
+      "age": "40",
+      "jerseyNo": "17",
+      "image": "https://i.pinimg.com/736x/4b/07/a0/4b07a0e9e9c0741841463b0cabca043e.jpg",
+      "about": "AB de Villiers is known for his versatility, innovation, and destructive batting across all formats.",
+      "battingStats": {
+        "matches": 228,
+        "innings": 211,
+        "runs": 8765,
+        "highestScore": "162",
+        "average": 53.5,
+        "strikeRate": 101.08,
+        "centuries": 25,
+        "halfCenturies": 40
+      },
+      "bowlingStats": {
+        "matches": 228,
+        "innings": 24,
+        "wickets": 15,
+        "bestBowling": "3/35",
+        "average": 39.5,
+        "economy": 5.41,
+        "strikeRate": 41.2
+      },
+      "fieldingStats": {
+        "catches": 200,
+        "runOuts": 22,
+        "stumpings": 4
+      },
+      "rating": 5
+    },
+    {
+      "id": "7",
+      "country": "Pakistan",
+      "playerName": "Babar Azam",
+      "role": "Batter",
+      "battingStyle": "Right-hand Bat",
+      "bowlingStyle": "Right-arm Medium",
+      "dob": "Oct 15, 1994",
+      "age": "30",
+      "jerseyNo": "56",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202409/babar-azam-090628816-3x4.jpg?VersionId=IGPWUKHLqMLEBE8RFZZCzG0_MEkwA73T",
+      "about": "Babar Azam is considered one of the best young batsmen in world cricket, known for his elegant technique.",
+      "battingStats": {
+        "matches": 105,
+        "innings": 102,
+        "runs": 5156,
+        "highestScore": "158",
+        "average": 55.8,
+        "strikeRate": 89.62,
+        "centuries": 15,
+        "halfCenturies": 25
+      },
+      "bowlingStats": {
+        "matches": 105,
+        "innings": 14,
+        "wickets": 3,
+        "bestBowling": "1/19",
+        "average": 65,
+        "economy": 5.75,
+        "strikeRate": 78.2
+      },
+      "fieldingStats": {
+        "catches": 88,
+        "runOuts": 10,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "8",
+      "country": "West Indies",
+      "playerName": "Chris Gayle",
+      "role": "Batter",
+      "battingStyle": "Left-hand Bat",
+      "bowlingStyle": "Right-arm Offbreak",
+      "dob": "Sep 21, 1979",
+      "age": "45",
+      "jerseyNo": "45",
+      "image": "https://www.zapcricket.com/cdn/shop/articles/WhatsApp_Image_2024-01-25_at_07.52.26.webp?v=1706153552",
+      "about": "Chris Gayle is known as one of the most destructive batters in the history of limited-overs cricket.",
+      "battingStats": {
+        "matches": 301,
+        "innings": 297,
+        "runs": 10480,
+        "highestScore": "215",
+        "average": 37.83,
+        "strikeRate": 85.97,
+        "centuries": 25,
+        "halfCenturies": 54
+      },
+      "bowlingStats": {
+        "matches": 301,
+        "innings": 16,
+        "wickets": 3,
+        "bestBowling": "2/15",
+        "average": 55.66,
+        "economy": 6.35,
+        "strikeRate": 80.2
+      },
+      "fieldingStats": {
+        "catches": 145,
+        "runOuts": 21,
+        "stumpings": 0
+      },
+      "rating": 4
+    },
+    {
+      "id": "9",
+      "country": "Sri Lanka",
+      "playerName": "Kumar Sangakkara",
+      "role": "Wicketkeeper Batter",
+      "battingStyle": "Left-hand Bat",
+      "bowlingStyle": "None",
+      "dob": "Oct 27, 1977",
+      "age": "47",
+      "jerseyNo": "11",
+      "image": "https://s.ndtvimg.com/images/content/2015/mar/806/kumar-sangakkara-vs-scotland.jpg",
+      "about": "Kumar Sangakkara is regarded as one of the greatest wicketkeeper-batsmen in cricket history, with excellent technique and consistency.",
+      "battingStats": {
+        "matches": 404,
+        "innings": 378,
+        "runs": 12400,
+        "highestScore": "169",
+        "average": 57.4,
+        "strikeRate": 79.99,
+        "centuries": 38,
+        "halfCenturies": 52
+      },
+      "bowlingStats": {
+        "matches": 404,
+        "innings": 0,
+        "wickets": 0,
+        "bestBowling": "None",
+        "average": "N/A",
+        "economy": "N/A",
+        "strikeRate": "N/A"
+      },
+      "fieldingStats": {
+        "catches": 409,
+        "runOuts": 24,
+        "stumpings": 36
+      },
+      "rating": 5
+    },
+    {
+      "id": "10",
+      "country": "India",
+      "playerName": "Shubman Gill",
+      "role": "Batter",
+      "battingStyle": "Right-hand Bat",
+      "bowlingStyle": "None",
+      "dob": "Sep 8, 1999",
+      "age": "25",
+      "jerseyNo": "77",
+      "image": "https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_480,q_50/lsci/db/PICTURES/CMS/352800/352812.10.jpg",
+      "about": "Shubman Gill is one of the brightest young talents in world cricket, known for his elegant strokeplay and consistency.",
+      "battingStats": {
+        "matches": 34,
+        "innings": 33,
+        "runs": 1580,
+        "highestScore": "126",
+        "average": 51.86,
+        "strikeRate": 77.58,
+        "centuries": 4,
+        "halfCenturies": 8
+      },
+      "bowlingStats": {
+        "matches": 34,
+        "innings": 0,
+        "wickets": 0,
+        "bestBowling": "N/A",
+        "average": "N/A",
+        "economy": "N/A",
+        "strikeRate": "N/A"
+      },
+      "fieldingStats": {
+        "catches": 22,
+        "runOuts": 3,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "11",
+      "country": "Pakistan",
+      "playerName": "Shaheen Afridi",
+      "role": "Bowler",
+      "battingStyle": "Left-hand Bat",
+      "bowlingStyle": "Left-arm Fast",
+      "dob": "Apr 6, 2000",
+      "age": "24",
+      "jerseyNo": "10",
+      "image": " https://c.ndtvimg.com/2023-09/9ksdir1_shaheen-afridi-afp_625x300_09_September_23.jpg?im=FitAndFill,algorithm=dnn,width=806,height=605",
+      "about": "Shaheen Afridi is known for his deadly pace and swing, and is regarded as one of the best fast bowlers of his generation.",
+      "battingStats": {
+        "matches": 29,
+        "innings": 18,
+        "runs": 115,
+        "highestScore": "17",
+        "average": 11.5,
+        "strikeRate": 47.91,
+        "centuries": 0,
+        "halfCenturies": 0
+      },
+      "bowlingStats": {
+        "matches": 29,
+        "innings": 57,
+        "wickets": 112,
+        "bestBowling": "6/35",
+        "average": 25.74,
+        "economy": 4.72,
+        "strikeRate": 41.8
+      },
+      "fieldingStats": {
+        "catches": 8,
+        "runOuts": 4,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "12",
+      "country": "Australia",
+      "playerName": "Marnus Labuschagne",
+      "role": "Batter",
+      "battingStyle": "Right-hand Bat",
+      "bowlingStyle": "None",
+      "dob": "Jun 22, 1994",
+      "age": "30",
+      "jerseyNo": "23",
+      "image": "https://c.ndtvimg.com/2023-09/uhvmo7j8_marnus-labuschagne-afp_625x300_10_September_23.jpg?im=FaceCrop,algorithm=dnn,width=806,height=605",
+      "about": "Marnus Labuschagne is a technically sound batsman known for his consistency and ability to adapt to different formats.",
+      "battingStats": {
+        "matches": 43,
+        "innings": 82,
+        "runs": 3489,
+        "highestScore": "215",
+        "average": 54.86,
+        "strikeRate": 53.76,
+        "centuries": 9,
+        "halfCenturies": 15
+      },
+      "bowlingStats": {
+        "matches": 43,
+        "innings": 6,
+        "wickets": 5,
+        "bestBowling": "2/40",
+        "average": 31.6,
+        "economy": 3.68,
+        "strikeRate": 61.2
+      },
+      "fieldingStats": {
+        "catches": 25,
+        "runOuts": 3,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "13",
+      "country": "India",
+      "playerName": "Hardik Pandya",
+      "role": "All-rounder",
+      "battingStyle": "Right-hand Bat",
+      "bowlingStyle": "Right-arm Fast",
+      "dob": "Oct 11, 1993",
+      "age": "31",
+      "jerseyNo": "33",
+      "image": "https://crictoday.com/wp-content/uploads/2024/07/Hardik-Pandya-.webp",
+      "about": "Hardik Pandya is known for his power-hitting and aggressive fast bowling, making him one of the most valuable all-rounders in world cricket.",
+      "battingStats": {
+        "matches": 89,
+        "innings": 83,
+        "runs": 2000,
+        "highestScore": "91*",
+        "average": 29.85,
+        "strikeRate": 142.58,
+        "centuries": 0,
+        "halfCenturies": 10
+      },
+      "bowlingStats": {
+        "matches": 89,
+        "innings": 72,
+        "wickets": 65,
+        "bestBowling": "4/34",
+        "average": 31.98,
+        "economy": 7.56,
+        "strikeRate": 30.5
+      },
+      "fieldingStats": {
+        "catches": 39,
+        "runOuts": 7,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "14",
+      "country": "England",
+      "playerName": "Sam Curran",
+      "role": "All-rounder",
+      "battingStyle": "Left-hand Bat",
+      "bowlingStyle": "Left-arm Medium Fast",
+      "dob": "Jun 3, 1998",
+      "age": "26",
+      "jerseyNo": "18",
+      "image": " https://img1.hscicdn.com/image/upload/f_auto,t_ds_square_w_480,q_50/lsci/db/PICTURES/CMS/349100/349189.10.jpg",
+      "about": "Sam Curran is known for his impressive left-arm pace and ability to swing the ball, as well as his aggressive batting down the order.",
+      "battingStats": {
+        "matches": 45,
+        "innings": 38,
+        "runs": 703,
+        "highestScore": "95",
+        "average": 23.43,
+        "strikeRate": 135.22,
+        "centuries": 0,
+        "halfCenturies": 4
+      },
+      "bowlingStats": {
+        "matches": 45,
+        "innings": 83,
+        "wickets": 89,
+        "bestBowling": "5/25",
+        "average": 31.8,
+        "economy": 7.34,
+        "strikeRate": 38.1
+      },
+      "fieldingStats": {
+        "catches": 18,
+        "runOuts": 5,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "15",
+      "country": "India",
+      "playerName": "Rishabh Pant",
+      "role": "Wicketkeeper Batter",
+      "battingStyle": "Left-hand Bat",
+      "bowlingStyle": "None",
+      "dob": "Oct 4, 1997",
+      "age": "27",
+      "jerseyNo": "17",
+      "image": "https://www.livemint.com/lm-img/img/2024/10/19/600x338/PTI10-19-2024-000199B-0_1729335416061_1729335446693.jpg",
+      "about": "Rishabh Pant is known for his fearless batting and exceptional wicketkeeping skills. A dynamic player for India in all formats.",
+      "battingStats": {
+        "matches": 41,
+        "innings": 39,
+        "runs": 1838,
+        "highestScore": "159",
+        "average": 43.8,
+        "strikeRate": 72.45,
+        "centuries": 5,
+        "halfCenturies": 9
+      },
+      "bowlingStats": {
+        "matches": 41,
+        "innings": 0,
+        "wickets": 0,
+        "bestBowling": "N/A",
+        "average": "N/A",
+        "economy": "N/A",
+        "strikeRate": "N/A"
+      },
+      "fieldingStats": {
+        "catches": 102,
+        "runOuts": 14,
+        "stumpings": 4
+      },
+      "rating": 5
+    },
+    {
+      "id": "16",
+      "country": "England",
+      "playerName": "Harry Brook",
+      "role": "Batter",
+      "battingStyle": "Right-hand Bat",
+      "bowlingStyle": "None",
+      "dob": "Feb 22, 1999",
+      "age": "25",
+      "jerseyNo": "55",
+      "image": "https://static.independent.co.uk/2024/10/10/11/10-fedd42bab8e84ce69c665e06a8550d53.jpg",
+      "about": "Harry Brook is a young and explosive batter known for his adaptability and aggressive strokeplay in all formats of the game.",
+      "battingStats": {
+        "matches": 25,
+        "innings": 24,
+        "runs": 1320,
+        "highestScore": "150",
+        "average": 55,
+        "strikeRate": 91.23,
+        "centuries": 3,
+        "halfCenturies": 8
+      },
+      "bowlingStats": {
+        "matches": 25,
+        "innings": 0,
+        "wickets": 0,
+        "bestBowling": "N/A",
+        "average": "N/A",
+        "economy": "N/A",
+        "strikeRate": "N/A"
+      },
+      "fieldingStats": {
+        "catches": 16,
+        "runOuts": 4,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "17",
+      "country": "Australia",
+      "playerName": "Cameron Green",
+      "role": "All-rounder",
+      "battingStyle": "Right-hand Bat",
+      "bowlingStyle": "Right-arm Fast",
+      "dob": "Jun 3, 2000",
+      "age": "24",
+      "jerseyNo": "33",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Cameron_Green_fielding_Boxing_Day_2022_%28cropped%29.jpg",
+      "about": "Cameron Green is an exciting young all-rounder, known for his powerful batting and impressive fast bowling skills.",
+      "battingStats": {
+        "matches": 41,
+        "innings": 40,
+        "runs": 1252,
+        "highestScore": "117",
+        "average": 33,
+        "strikeRate": 74.58,
+        "centuries": 3,
+        "halfCenturies": 6
+      },
+      "bowlingStats": {
+        "matches": 41,
+        "innings": 50,
+        "wickets": 36,
+        "bestBowling": "5/27",
+        "average": 35.85,
+        "economy": 4.82,
+        "strikeRate": 58.2
+      },
+      "fieldingStats": {
+        "catches": 22,
+        "runOuts": 3,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "18",
+      "country": "South Africa",
+      "playerName": "Aiden Markram",
+      "role": "All-rounder",
+      "battingStyle": "Right-hand Bat",
+      "bowlingStyle": "Right-arm Offbreak",
+      "dob": "Oct 4, 1993",
+      "age": "31",
+      "jerseyNo": "7",
+      "image": "https://static.cricketaddictor.com/images/2024/AidenMarkramforSouthAfrica.jpg?q=80",
+      "about": "Aiden Markram is a dynamic all-rounder for South Africa, excelling both as a top-order batsman and a handy off-spinner.",
+      "battingStats": {
+        "matches": 46,
+        "innings": 45,
+        "runs": 1743,
+        "highestScore": "152",
+        "average": 40.7,
+        "strikeRate": 75.89,
+        "centuries": 4,
+        "halfCenturies": 12
+      },
+      "bowlingStats": {
+        "matches": 46,
+        "innings": 31,
+        "wickets": 20,
+        "bestBowling": "3/32",
+        "average": 45.5,
+        "economy": 4.65,
+        "strikeRate": 66
+      },
+      "fieldingStats": {
+        "catches": 35,
+        "runOuts": 9,
+        "stumpings": 0
+      },
+      "rating": 4
+    },
+    {
+      "id": "19",
+      "country": "Bangladesh",
+      "playerName": "Shakib Al Hasan",
+      "role": "All-rounder",
+      "battingStyle": "Left-hand Bat",
+      "bowlingStyle": "Left-arm Orthodox",
+      "dob": "Mar 24, 1987",
+      "age": "37",
+      "jerseyNo": "75",
+      "image": "https://static.toiimg.com/thumb/msid-114962539,width-1280,height-720,resizemode-4/114962539.jpg",
+      "about": "Shakib Al Hasan is regarded as one of the best all-rounders in world cricket, excelling with both bat and ball.",
+      "battingStats": {
+        "matches": 248,
+        "innings": 231,
+        "runs": 6605,
+        "highestScore": "124",
+        "average": 35.27,
+        "strikeRate": 72.18,
+        "centuries": 9,
+        "halfCenturies": 42
+      },
+      "bowlingStats": {
+        "matches": 248,
+        "innings": 226,
+        "wickets": 290,
+        "bestBowling": "5/29",
+        "average": 31.77,
+        "economy": 4.37,
+        "strikeRate": 41.5
+      },
+      "fieldingStats": {
+        "catches": 126,
+        "runOuts": 25,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "20",
+      "country": "New Zealand",
+      "playerName": "Devon Conway",
+      "role": "Batter",
+      "battingStyle": "Left-hand Bat",
+      "bowlingStyle": "None",
+      "dob": "Jul 8, 1991",
+      "age": "33",
+      "jerseyNo": "24",
+      "image": " https://www.deccanchronicle.com/h-upload/2024/08/15/1831123-guz-mbaaaapxq8.webp",
+      "about": "Devon Conway is a stylish left-handed batsman who has made a rapid impact for New Zealand in all formats with his composed strokeplay.",
+      "battingStats": {
+        "matches": 22,
+        "innings": 22,
+        "runs": 895,
+        "highestScore": "122",
+        "average": 49.72,
+        "strikeRate": 74.2,
+        "centuries": 2,
+        "halfCenturies": 5
+      },
+      "bowlingStats": {
+        "matches": 22,
+        "innings": 0,
+        "wickets": 0,
+        "bestBowling": "N/A",
+        "average": "N/A",
+        "economy": "N/A",
+        "strikeRate": "N/A"
+      },
+      "fieldingStats": {
+        "catches": 18,
+        "runOuts": 4,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "21",
+      "country": "Sri Lanka",
+      "playerName": "Wanindu Hasaranga",
+      "role": "All-rounder",
+      "battingStyle": "Right-hand Bat",
+      "bowlingStyle": "Right-arm Legbreak",
+      "dob": "Jul 29, 1997",
+      "age": "27",
+      "jerseyNo": "45",
+      "image": "https://c.ndtvimg.com/2024-08/34fp6rc_wanindu-hasaranga-afp_625x300_04_August_24.jpg?im=FitAndFill,algorithm=dnn,width=806,height=605",
+      "about": "Wanindu Hasaranga is a gifted all-rounder for Sri Lanka, known for his brilliant leg-spin bowling and useful lower-order batting.",
+      "battingStats": {
+        "matches": 50,
+        "innings": 45,
+        "runs": 1076,
+        "highestScore": "83",
+        "average": 34.61,
+        "strikeRate": 91.85,
+        "centuries": 0,
+        "halfCenturies": 7
+      },
+      "bowlingStats": {
+        "matches": 50,
+        "innings": 51,
+        "wickets": 89,
+        "bestBowling": "5/18",
+        "average": 23.79,
+        "economy": 5.43,
+        "strikeRate": 33.7
+      },
+      "fieldingStats": {
+        "catches": 23,
+        "runOuts": 5,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "22",
+      "country": "West Indies",
+      "playerName": "Nicholas Pooran",
+      "role": "Wicketkeeper Batter",
+      "battingStyle": "Left-hand Bat",
+      "bowlingStyle": "None",
+      "dob": "Oct 2, 1995",
+      "age": "29",
+      "jerseyNo": "23",
+      "image": "https://p.imgci.com/db/PICTURES/CMS/382500/382538.jpg",
+      "about": "Nicholas Pooran is a hard-hitting batsman and a reliable wicketkeeper, known for his fearless approach in limited-overs cricket.",
+      "battingStats": {
+        "matches": 78,
+        "innings": 75,
+        "runs": 2036,
+        "highestScore": "118",
+        "average": 34.26,
+        "strikeRate": 131.12,
+        "centuries": 2,
+        "halfCenturies": 13
+      },
+      "bowlingStats": {
+        "matches": 78,
+        "innings": 0,
+        "wickets": 0,
+        "bestBowling": "N/A",
+        "average": "N/A",
+        "economy": "N/A",
+        "strikeRate": "N/A"
+      },
+      "fieldingStats": {
+        "catches": 54,
+        "runOuts": 4,
+        "stumpings": 12
+      },
+      "rating": 5
+    },
+    {
+      "id": "23",
+      "country": "Pakistan",
+      "playerName": "Babar Azam",
+      "role": "Batter",
+      "battingStyle": "Right-hand Bat",
+      "bowlingStyle": "None",
+      "dob": "Oct 15, 1994",
+      "age": "30",
+      "jerseyNo": "56",
+      "image": "https://www.cricbuzz.com/a/img/v1/1920x1080/i1/c218410/babar-azam.jpg",
+      "about": "Babar Azam is regarded as one of the top batsmen in modern cricket, known for his elegance and consistency across all formats.",
+      "battingStats": {
+        "matches": 110,
+        "innings": 108,
+        "runs": 5475,
+        "highestScore": "196",
+        "average": 54.75,
+        "strikeRate": 89.15,
+        "centuries": 18,
+        "halfCenturies": 23
+      },
+      "bowlingStats": {
+        "matches": 110,
+        "innings": 0,
+        "wickets": 0,
+        "bestBowling": "N/A",
+        "average": "N/A",
+        "economy": "N/A",
+        "strikeRate": "N/A"
+      },
+      "fieldingStats": {
+        "catches": 90,
+        "runOuts": 12,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "24",
+      "country": "Australia",
+      "playerName": "Josh Hazlewood",
+      "role": "Bowler",
+      "battingStyle": "Left-hand Bat",
+      "bowlingStyle": "Right-arm Fast",
+      "dob": "Jan 8, 1991",
+      "age": "33",
+      "jerseyNo": "8",
+      "image": "https://www.hindustantimes.com/ht-img/img/2024/12/05/1600x900/Australia-fast-bowler-Josh-Hazlewood--their-most-s_1732960851823_1733364184526.jpg",
+      "about": "Josh Hazlewood is one of the finest fast bowlers for Australia, known for his consistent line and length, making him a key player in all formats.",
+      "battingStats": {
+        "matches": 40,
+        "innings": 35,
+        "runs": 501,
+        "highestScore": "35*",
+        "average": 17,
+        "strikeRate": 38.72,
+        "centuries": 0,
+        "halfCenturies": 0
+      },
+      "bowlingStats": {
+        "matches": 40,
+        "innings": 75,
+        "wickets": 140,
+        "bestBowling": "6/25",
+        "average": 25,
+        "economy": 3.38,
+        "strikeRate": 51.3
+      },
+      "fieldingStats": {
+        "catches": 25,
+        "runOuts": 8,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "26",
+      "country": "England",
+      "playerName": "Jofra Archer",
+      "role": "Bowler",
+      "battingStyle": "Right-hand Bat",
+      "bowlingStyle": "Right-arm Fast",
+      "dob": "Apr 1, 1995",
+      "age": "29",
+      "jerseyNo": "22",
+      "image": "https://e0.365dm.com/21/03/2048x1152/skysports-ap-newsroom-jofra-archer_5323836.jpg?20210330105454",
+      "about": "Jofra Archer is a fast bowler for England known for his pace and wicket-taking ability, playing a crucial role in England's success.",
+      "battingStats": {
+        "matches": 17,
+        "innings": 12,
+        "runs": 157,
+        "highestScore": "25*",
+        "average": 15.7,
+        "strikeRate": 54.14,
+        "centuries": 0,
+        "halfCenturies": 0
+      },
+      "bowlingStats": {
+        "matches": 17,
+        "innings": 34,
+        "wickets": 60,
+        "bestBowling": "6/40",
+        "average": 27.42,
+        "economy": 4.78,
+        "strikeRate": 47.5
+      },
+      "fieldingStats": {
+        "catches": 6,
+        "runOuts": 0,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "27",
+      "country": "South Africa",
+      "playerName": "Quinton de Kock",
+      "role": "Wicketkeeper Batter",
+      "battingStyle": "Left-hand Bat",
+      "bowlingStyle": "None",
+      "dob": "Dec 17, 1992",
+      "age": "31",
+      "jerseyNo": "16",
+      "image": "https://media.crictracker.com/media/featureimage/2021/07/Quinton-de-Kock-1.jpg",
+      "about": "Quinton de Kock is one of the most explosive wicketkeeper-batsmen in world cricket, known for his aggressive style and sharp reflexes.",
+      "battingStats": {
+        "matches": 54,
+        "innings": 52,
+        "runs": 2980,
+        "highestScore": "178",
+        "average": 58.55,
+        "strikeRate": 87.89,
+        "centuries": 8,
+        "halfCenturies": 16
+      },
+      "bowlingStats": {
+        "matches": 54,
+        "innings": 0,
+        "wickets": 0,
+        "bestBowling": "N/A",
+        "average": "N/A",
+        "economy": "N/A",
+        "strikeRate": "N/A"
+      },
+      "fieldingStats": {
+        "catches": 157,
+        "runOuts": 14,
+        "stumpings": 16
+      },
+      "rating": 5
+    },
+    {
+      "id": "28",
+      "country": "Afghanistan",
+      "playerName": "Rashid Khan",
+      "role": "Bowler",
+      "battingStyle": "Right-hand Bat",
+      "bowlingStyle": "Right-arm Legbreak",
+      "dob": "Sep 20, 1998",
+      "age": "26",
+      "jerseyNo": "19",
+      "image": "https://images.news18.com/ibnlive/uploads/2024/06/t20-world-cup_rashid-khan_afghanistan-2024-06-fa2dcf97e11be0f2caae983eb93d40db.jpg",
+      "about": "Rashid Khan is one of the best leg-spin bowlers in the world, known for his deadly googlies and match-winning performances.",
+      "battingStats": {
+        "matches": 65,
+        "innings": 30,
+        "runs": 266,
+        "highestScore": "27",
+        "average": 13.3,
+        "strikeRate": 127.51,
+        "centuries": 0,
+        "halfCenturies": 0
+      },
+      "bowlingStats": {
+        "matches": 65,
+        "innings": 118,
+        "wickets": 145,
+        "bestBowling": "5/3",
+        "average": 19.02,
+        "economy": 4.21,
+        "strikeRate": 22.7
+      },
+      "fieldingStats": {
+        "catches": 56,
+        "runOuts": 10,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "29",
+      "country": "India",
+      "playerName": "Jasprit Bumrah",
+      "role": "Bowler",
+      "battingStyle": "Right-hand Bat",
+      "bowlingStyle": "Right-arm Fast",
+      "dob": "Dec 6, 1993",
+      "age": "30",
+      "jerseyNo": "93",
+      "image": "https://static.tnn.in/thumb/msid-111292842,thumbsize-43926,width-1280,height-720,resizemode-75/111292842.jpg",
+      "about": "Jasprit Bumrah is India's premier fast bowler, renowned for his death-bowling skills and ability to take wickets in critical moments.",
+      "battingStats": {
+        "matches": 67,
+        "innings": 44,
+        "runs": 517,
+        "highestScore": "16",
+        "average": 23.5,
+        "strikeRate": 77.13,
+        "centuries": 0,
+        "halfCenturies": 0
+      },
+      "bowlingStats": {
+        "matches": 67,
+        "innings": 132,
+        "wickets": 120,
+        "bestBowling": "5/27",
+        "average": 24,
+        "economy": 4.52,
+        "strikeRate": 44.1
+      },
+      "fieldingStats": {
+        "catches": 24,
+        "runOuts": 5,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "30",
+      "country": "India",
+      "playerName": "Rishabh Pant",
+      "role": "Wicketkeeper Batter",
+      "battingStyle": "Left-hand Bat",
+      "bowlingStyle": "None",
+      "dob": "Oct 4, 1997",
+      "age": "27",
+      "jerseyNo": "17",
+      "image": "https://www.cricbuzz.com/a/img/v1/1920x1080/i1/c217013/rishabh-pant.jpg",
+      "about": "Rishabh Pant is a dynamic wicketkeeper-batsman known for his aggressive stroke play and match-winning knocks, particularly in Test cricket.",
+      "battingStats": {
+        "matches": 33,
+        "innings": 33,
+        "runs": 1790,
+        "highestScore": "159",
+        "average": 43.75,
+        "strikeRate": 71.68,
+        "centuries": 2,
+        "halfCenturies": 9
+      },
+      "bowlingStats": {
+        "matches": 33,
+        "innings": 0,
+        "wickets": 0,
+        "bestBowling": "N/A",
+        "average": "N/A",
+        "economy": "N/A",
+        "strikeRate": "N/A"
+      },
+      "fieldingStats": {
+        "catches": 107,
+        "runOuts": 8,
+        "stumpings": 24
+      },
+      "rating": 5
+    },
+    {
+      "id": "31",
+      "country": "New Zealand",
+      "playerName": "Kane Williamson",
+      "role": "Batter",
+      "battingStyle": "Right-hand Bat",
+      "bowlingStyle": "Right-arm Offbreak",
+      "dob": "Aug 8, 1990",
+      "age": "34",
+      "jerseyNo": "22",
+      "image": "https://www.cricbuzz.com/a/img/v1/1920x1080/i1/c239124/kane-williamson.jpg",
+      "about": "Kane Williamson is a stylish and composed top-order batsman, widely respected for his leadership and technique across formats.",
+      "battingStats": {
+        "matches": 91,
+        "innings": 90,
+        "runs": 7051,
+        "highestScore": "148",
+        "average": 52.62,
+        "strikeRate": 73.11,
+        "centuries": 19,
+        "halfCenturies": 33
+      },
+      "bowlingStats": {
+        "matches": 91,
+        "innings": 3,
+        "wickets": 1,
+        "bestBowling": "1/34",
+        "average": 99,
+        "economy": 5.56,
+        "strikeRate": 103.5
+      },
+      "fieldingStats": {
+        "catches": 102,
+        "runOuts": 10,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "32",
+      "country": "Bangladesh",
+      "playerName": "Shakib Al Hasan",
+      "role": "All-rounder",
+      "battingStyle": "Left-hand Bat",
+      "bowlingStyle": "Left-arm Orthodox",
+      "dob": "Mar 24, 1987",
+      "age": "37",
+      "jerseyNo": "75",
+      "image": "https://www.cricbuzz.com/a/img/v1/1920x1080/i1/c237481/shakib-al-hasan.jpg",
+      "about": "Shakib Al Hasan is one of the best all-rounders in the world, renowned for his batting, bowling, and leadership abilities in international cricket.",
+      "battingStats": {
+        "matches": 213,
+        "innings": 207,
+        "runs": 7582,
+        "highestScore": "124",
+        "average": 37.8,
+        "strikeRate": 79.53,
+        "centuries": 9,
+        "halfCenturies": 54
+      },
+      "bowlingStats": {
+        "matches": 213,
+        "innings": 209,
+        "wickets": 286,
+        "bestBowling": "5/29",
+        "average": 29.44,
+        "economy": 4.31,
+        "strikeRate": 41.3
+      },
+      "fieldingStats": {
+        "catches": 126,
+        "runOuts": 14,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "33",
+      "country": "Australia",
+      "playerName": "Steve Smith",
+      "role": "Batter",
+      "battingStyle": "Right-hand Bat",
+      "bowlingStyle": "None",
+      "dob": "Jun 2, 1989",
+      "age": "35",
+      "jerseyNo": "49",
+      "image": "https://www.cricbuzz.com/a/img/v1/1920x1080/i1/c237215/steve-smith.jpg",
+      "about": "Steve Smith is one of the most successful and technically sound batsmen in the world, known for his unorthodox technique and consistency.",
+      "battingStats": {
+        "matches": 91,
+        "innings": 92,
+        "runs": 8151,
+        "highestScore": "239",
+        "average": 61.35,
+        "strikeRate": 54.5,
+        "centuries": 27,
+        "halfCenturies": 33
+      },
+      "bowlingStats": {
+        "matches": 91,
+        "innings": 2,
+        "wickets": 4,
+        "bestBowling": "2/30",
+        "average": 36.75,
+        "economy": 5.01,
+        "strikeRate": 52
+      },
+      "fieldingStats": {
+        "catches": 163,
+        "runOuts": 7,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "34",
+      "country": "Pakistan",
+      "playerName": "Shaheen Shah Afridi",
+      "role": "Bowler",
+      "battingStyle": "Left-hand Bat",
+      "bowlingStyle": "Left-arm Fast",
+      "dob": "Apr 6, 2000",
+      "age": "24",
+      "jerseyNo": "10",
+      "image": "https://www.cricbuzz.com/a/img/v1/1920x1080/i1/c237421/shaheen-shah-afridi.jpg",
+      "about": "Shaheen Shah Afridi is a fast bowler for Pakistan known for his pace, bounce, and ability to swing the ball both ways.",
+      "battingStats": {
+        "matches": 19,
+        "innings": 12,
+        "runs": 125,
+        "highestScore": "25*",
+        "average": 20.83,
+        "strikeRate": 51.03,
+        "centuries": 0,
+        "halfCenturies": 0
+      },
+      "bowlingStats": {
+        "matches": 19,
+        "innings": 38,
+        "wickets": 76,
+        "bestBowling": "5/35",
+        "average": 21.47,
+        "economy": 4.91,
+        "strikeRate": 38.1
+      },
+      "fieldingStats": {
+        "catches": 11,
+        "runOuts": 1,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "35",
+      "country": "India",
+      "playerName": "KL Rahul",
+      "role": "Batter",
+      "battingStyle": "Right-hand Bat",
+      "bowlingStyle": "None",
+      "dob": "Apr 18, 1992",
+      "age": "32",
+      "jerseyNo": "1",
+      "image": "https://www.cricbuzz.com/a/img/v1/1920x1080/i1/c239814/kl-rahul.jpg",
+      "about": "KL Rahul is a stylish and versatile batsman who can play in different batting positions, known for his technical proficiency and ability to play big knocks.",
+      "battingStats": {
+        "matches": 54,
+        "innings": 54,
+        "runs": 1890,
+        "highestScore": "110",
+        "average": 42.22,
+        "strikeRate": 73.91,
+        "centuries": 5,
+        "halfCenturies": 14
+      },
+      "bowlingStats": {
+        "matches": 54,
+        "innings": 0,
+        "wickets": 0,
+        "bestBowling": "N/A",
+        "average": "N/A",
+        "economy": "N/A",
+        "strikeRate": "N/A"
+      },
+      "fieldingStats": {
+        "catches": 28,
+        "runOuts": 3,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "36",
+      "country": "Australia",
+      "playerName": "David Warner",
+      "role": "Batter",
+      "battingStyle": "Left-hand Bat",
+      "bowlingStyle": "None",
+      "dob": "Oct 27, 1986",
+      "age": "38",
+      "jerseyNo": "23",
+      "image": "https://www.cricbuzz.com/a/img/v1/1920x1080/i1/c237589/david-warner.jpg",
+      "about": "David Warner is a dynamic opening batsman known for his aggressive stroke play and leadership qualities, one of Australia's premier players in all formats.",
+      "battingStats": {
+        "matches": 128,
+        "innings": 126,
+        "runs": 8369,
+        "highestScore": "180",
+        "average": 44.61,
+        "strikeRate": 89.34,
+        "centuries": 24,
+        "halfCenturies": 41
+      },
+      "bowlingStats": {
+        "matches": 128,
+        "innings": 2,
+        "wickets": 2,
+        "bestBowling": "1/9",
+        "average": 53.5,
+        "economy": 5.78,
+        "strikeRate": 72
+      },
+      "fieldingStats": {
+        "catches": 75,
+        "runOuts": 5,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "37",
+      "country": "West Indies",
+      "playerName": "Shimron Hetmyer",
+      "role": "Batter",
+      "battingStyle": "Left-hand Bat",
+      "bowlingStyle": "None",
+      "dob": "Dec 26, 1996",
+      "age": "27",
+      "jerseyNo": "7",
+      "image": "https://www.cricbuzz.com/a/img/v1/1920x1080/i1/c234321/shimron-hetmyer.jpg",
+      "about": "Shimron Hetmyer is a powerful middle-order batsman from the West Indies, known for his aggressive approach and ability to hit big sixes.",
+      "battingStats": {
+        "matches": 39,
+        "innings": 39,
+        "runs": 1052,
+        "highestScore": "106",
+        "average": 32.92,
+        "strikeRate": 113.45,
+        "centuries": 1,
+        "halfCenturies": 7
+      },
+      "bowlingStats": {
+        "matches": 39,
+        "innings": 0,
+        "wickets": 0,
+        "bestBowling": "N/A",
+        "average": "N/A",
+        "economy": "N/A",
+        "strikeRate": "N/A"
+      },
+      "fieldingStats": {
+        "catches": 17,
+        "runOuts": 2,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "39",
+      "country": "England",
+      "playerName": "Ben Stokes",
+      "role": "All-rounder",
+      "battingStyle": "Left-hand Bat",
+      "bowlingStyle": "Right-arm Fast-Medium",
+      "dob": "Jun 4, 1991",
+      "age": "33",
+      "jerseyNo": "55",
+      "image": "https://www.cricbuzz.com/a/img/v1/1920x1080/i1/c237420/ben-stokes.jpg",
+      "about": "Ben Stokes is one of the premier all-rounders in world cricket, known for his aggressive batting, match-winning performances, and skillful bowling.",
+      "battingStats": {
+        "matches": 91,
+        "innings": 148,
+        "runs": 4630,
+        "highestScore": "258",
+        "average": 36.76,
+        "strikeRate": 61.56,
+        "centuries": 11,
+        "halfCenturies": 24
+      },
+      "bowlingStats": {
+        "matches": 91,
+        "innings": 176,
+        "wickets": 174,
+        "bestBowling": "6/22",
+        "average": 31.88,
+        "economy": 4.89,
+        "strikeRate": 44.2
+      },
+      "fieldingStats": {
+        "catches": 94,
+        "runOuts": 11,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "40",
+      "country": "South Africa",
+      "playerName": "Quinton de Kock",
+      "role": "Wicketkeeper Batter",
+      "battingStyle": "Left-hand Bat",
+      "bowlingStyle": "None",
+      "dob": "Dec 17, 1992",
+      "age": "31",
+      "jerseyNo": "17",
+      "image": "https://www.cricbuzz.com/a/img/v1/1920x1080/i1/c237562/quinton-de-kock.jpg",
+      "about": "Quinton de Kock is an explosive wicketkeeper-batsman from South Africa, known for his aggressive stroke play at the top of the order.",
+      "battingStats": {
+        "matches": 94,
+        "innings": 91,
+        "runs": 5237,
+        "highestScore": "178",
+        "average": 39.78,
+        "strikeRate": 87.55,
+        "centuries": 14,
+        "halfCenturies": 26
+      },
+      "bowlingStats": {
+        "matches": 94,
+        "innings": 0,
+        "wickets": 0,
+        "bestBowling": "N/A",
+        "average": "N/A",
+        "economy": "N/A",
+        "strikeRate": "N/A"
+      },
+      "fieldingStats": {
+        "catches": 229,
+        "runOuts": 12,
+        "stumpings": 32
+      },
+      "rating": 5
+    },
+    {
+      "id": "41",
+      "country": "Pakistan",
+      "playerName": "Babar Azam",
+      "role": "Batter",
+      "battingStyle": "Right-hand Bat",
+      "bowlingStyle": "None",
+      "dob": "Oct 15, 1994",
+      "age": "30",
+      "jerseyNo": "56",
+      "image": "https://www.cricbuzz.com/a/img/v1/1920x1080/i1/c238215/babar-azam.jpg",
+      "about": "Babar Azam is a stylish and composed top-order batsman, widely regarded as one of the best in the modern era, especially in limited-overs cricket.",
+      "battingStats": {
+        "matches": 92,
+        "innings": 91,
+        "runs": 4535,
+        "highestScore": "196",
+        "average": 54.39,
+        "strikeRate": 89.11,
+        "centuries": 17,
+        "halfCenturies": 19
+      },
+      "bowlingStats": {
+        "matches": 92,
+        "innings": 1,
+        "wickets": 2,
+        "bestBowling": "1/12",
+        "average": 25.5,
+        "economy": 6,
+        "strikeRate": 34.5
+      },
+      "fieldingStats": {
+        "catches": 71,
+        "runOuts": 5,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "42",
+      "country": "Sri Lanka",
+      "playerName": "Dasun Shanaka",
+      "role": "All-rounder",
+      "battingStyle": "Right-hand Bat",
+      "bowlingStyle": "Right-arm Medium",
+      "dob": "Sep 9, 1991",
+      "age": "33",
+      "jerseyNo": "45",
+      "image": "https://www.cricbuzz.com/a/img/v1/1920x1080/i1/c237862/dasun-shanaka.jpg",
+      "about": "Dasun Shanaka is an aggressive all-rounder who plays a vital role for Sri Lanka with both bat and ball, often finishing games with explosive performances.",
+      "battingStats": {
+        "matches": 40,
+        "innings": 37,
+        "runs": 1301,
+        "highestScore": "104*",
+        "average": 37.17,
+        "strikeRate": 93.48,
+        "centuries": 1,
+        "halfCenturies": 9
+      },
+      "bowlingStats": {
+        "matches": 40,
+        "innings": 38,
+        "wickets": 45,
+        "bestBowling": "4/34",
+        "average": 29.33,
+        "economy": 5.73,
+        "strikeRate": 32.1
+      },
+      "fieldingStats": {
+        "catches": 18,
+        "runOuts": 5,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "43",
+      "country": "India",
+      "playerName": "Shubman Gill",
+      "role": "Batter",
+      "battingStyle": "Right-hand Bat",
+      "bowlingStyle": "None",
+      "dob": "Sep 8, 1999",
+      "age": "25",
+      "jerseyNo": "77",
+      "image": "https://www.cricbuzz.com/a/img/v1/1920x1080/i1/c237741/shubman-gill.jpg",
+      "about": "Shubman Gill is a talented young batsman known for his elegant stroke play and composed approach, making a mark in all formats of the game.",
+      "battingStats": {
+        "matches": 24,
+        "innings": 24,
+        "runs": 1162,
+        "highestScore": "91*",
+        "average": 53,
+        "strikeRate": 75.8,
+        "centuries": 2,
+        "halfCenturies": 7
+      },
+      "bowlingStats": {
+        "matches": 24,
+        "innings": 0,
+        "wickets": 0,
+        "bestBowling": "N/A",
+        "average": "N/A",
+        "economy": "N/A",
+        "strikeRate": "N/A"
+      },
+      "fieldingStats": {
+        "catches": 23,
+        "runOuts": 3,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "44",
+      "country": "New Zealand",
+      "playerName": "Trent Boult",
+      "role": "Bowler",
+      "battingStyle": "Left-hand Bat",
+      "bowlingStyle": "Left-arm Fast",
+      "dob": "Jul 22, 1989",
+      "age": "35",
+      "jerseyNo": "18",
+      "image": "https://www.cricbuzz.com/a/img/v1/1920x1080/i1/c237149/trent-boult.jpg",
+      "about": "Trent Boult is a world-class fast bowler from New Zealand, known for his ability to swing the ball and bowl in key moments for his team.",
+      "battingStats": {
+        "matches": 92,
+        "innings": 58,
+        "runs": 400,
+        "highestScore": "32",
+        "average": 12.9,
+        "strikeRate": 49.56,
+        "centuries": 0,
+        "halfCenturies": 0
+      },
+      "bowlingStats": {
+        "matches": 92,
+        "innings": 176,
+        "wickets": 330,
+        "bestBowling": "7/34",
+        "average": 27.92,
+        "economy": 4.94,
+        "strikeRate": 55.6
+      },
+      "fieldingStats": {
+        "catches": 30,
+        "runOuts": 6,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "45",
+      "country": "India",
+      "playerName": "Rishabh Pant",
+      "role": "Wicketkeeper Batter",
+      "battingStyle": "Left-hand Bat",
+      "bowlingStyle": "None",
+      "dob": "Oct 4, 1997",
+      "age": "27",
+      "jerseyNo": "17",
+      "image": "https://www.cricbuzz.com/a/img/v1/1920x1080/i1/c238409/rishabh-pant.jpg",
+      "about": "Rishabh Pant is a dynamic wicketkeeper-batsman known for his fearless stroke play and ability to change the course of a game with his aggressive batting.",
+      "battingStats": {
+        "matches": 33,
+        "innings": 32,
+        "runs": 1585,
+        "highestScore": "159",
+        "average": 40.77,
+        "strikeRate": 71.56,
+        "centuries": 2,
+        "halfCenturies": 9
+      },
+      "bowlingStats": {
+        "matches": 33,
+        "innings": 0,
+        "wickets": 0,
+        "bestBowling": "N/A",
+        "average": "N/A",
+        "economy": "N/A",
+        "strikeRate": "N/A"
+      },
+      "fieldingStats": {
+        "catches": 102,
+        "runOuts": 8,
+        "stumpings": 25
+      },
+      "rating": 5
+    },
+    {
+      "id": "46",
+      "country": "Australia",
+      "playerName": "Steve Smith",
+      "role": "Batter",
+      "battingStyle": "Right-hand Bat",
+      "bowlingStyle": "None",
+      "dob": "Jun 2, 1989",
+      "age": "35",
+      "jerseyNo": "49",
+      "image": "https://www.cricbuzz.com/a/img/v1/1920x1080/i1/c237528/steve-smith.jpg",
+      "about": "Steve Smith is widely regarded as one of the best batsmen in the world, known for his unique technique and ability to score runs in all formats.",
+      "battingStats": {
+        "matches": 85,
+        "innings": 160,
+        "runs": 7542,
+        "highestScore": "239",
+        "average": 62.8,
+        "strikeRate": 51.99,
+        "centuries": 27,
+        "halfCenturies": 30
+      },
+      "bowlingStats": {
+        "matches": 85,
+        "innings": 13,
+        "wickets": 2,
+        "bestBowling": "1/17",
+        "average": 66,
+        "economy": 5.99,
+        "strikeRate": 83
+      },
+      "fieldingStats": {
+        "catches": 95,
+        "runOuts": 7,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "47",
+      "country": "Pakistan",
+      "playerName": "Shaheen Afridi",
+      "role": "Bowler",
+      "battingStyle": "Left-hand Bat",
+      "bowlingStyle": "Left-arm Fast",
+      "dob": "Apr 6, 2000",
+      "age": "24",
+      "jerseyNo": "10",
+      "image": "https://www.cricbuzz.com/a/img/v1/1920x1080/i1/c236423/shaheen-afridi.jpg",
+      "about": "Shaheen Afridi is a left-arm fast bowler who has become one of the top pacers in world cricket with his ability to swing the ball and bowl in key moments.",
+      "battingStats": {
+        "matches": 35,
+        "innings": 21,
+        "runs": 156,
+        "highestScore": "28*",
+        "average": 13,
+        "strikeRate": 38.87,
+        "centuries": 0,
+        "halfCenturies": 0
+      },
+      "bowlingStats": {
+        "matches": 35,
+        "innings": 68,
+        "wickets": 155,
+        "bestBowling": "6/51",
+        "average": 24.35,
+        "economy": 4.91,
+        "strikeRate": 39.2
+      },
+      "fieldingStats": {
+        "catches": 11,
+        "runOuts": 2,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "48",
+      "country": "New Zealand",
+      "playerName": "Kane Williamson",
+      "role": "Batter",
+      "battingStyle": "Right-hand Bat",
+      "bowlingStyle": "None",
+      "dob": "Aug 8, 1990",
+      "age": "34",
+      "jerseyNo": "22",
+      "image": "https://www.cricbuzz.com/a/img/v1/1920x1080/i1/c237416/kane-williamson.jpg",
+      "about": "Kane Williamson is one of New Zealand's most successful and technically sound batsmen, known for his calm demeanor and ability to play long innings.",
+      "battingStats": {
+        "matches": 79,
+        "innings": 144,
+        "runs": 7045,
+        "highestScore": "242",
+        "average": 52.69,
+        "strikeRate": 61.73,
+        "centuries": 18,
+        "halfCenturies": 33
+      },
+      "bowlingStats": {
+        "matches": 79,
+        "innings": 11,
+        "wickets": 15,
+        "bestBowling": "4/21",
+        "average": 28.8,
+        "economy": 4.91,
+        "strikeRate": 45.4
+      },
+      "fieldingStats": {
+        "catches": 60,
+        "runOuts": 4,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "49",
+      "country": "South Africa",
+      "playerName": "Aiden Markram",
+      "role": "All-rounder",
+      "battingStyle": "Right-hand Bat",
+      "bowlingStyle": "Right-arm Offbreak",
+      "dob": "Oct 4, 1994",
+      "age": "30",
+      "jerseyNo": "45",
+      "image": "https://www.cricbuzz.com/a/img/v1/1920x1080/i1/c238740/aiden-markram.jpg",
+      "about": "Aiden Markram is a talented all-rounder for South Africa, known for his aggressive batting and ability to contribute with the ball.",
+      "battingStats": {
+        "matches": 50,
+        "innings": 50,
+        "runs": 1740,
+        "highestScore": "143",
+        "average": 39.06,
+        "strikeRate": 72.1,
+        "centuries": 3,
+        "halfCenturies": 12
+      },
+      "bowlingStats": {
+        "matches": 50,
+        "innings": 16,
+        "wickets": 24,
+        "bestBowling": "4/32",
+        "average": 39.5,
+        "economy": 5.72,
+        "strikeRate": 34.3
+      },
+      "fieldingStats": {
+        "catches": 24,
+        "runOuts": 6,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "50",
+      "country": "England",
+      "playerName": "Jos Buttler",
+      "role": "Wicketkeeper Batter",
+      "battingStyle": "Right-hand Bat",
+      "bowlingStyle": "None",
+      "dob": "Sep 8, 1990",
+      "age": "34",
+      "jerseyNo": "63",
+      "image": "https://www.cricbuzz.com/a/img/v1/1920x1080/i1/c237780/jos-buttler.jpg",
+      "about": "Jos Buttler is one of the most dynamic wicketkeeper-batsmen in world cricket, known for his explosive hitting and ability to finish games in the shortest formats.",
+      "battingStats": {
+        "matches": 151,
+        "innings": 144,
+        "runs": 5407,
+        "highestScore": "162",
+        "average": 40.16,
+        "strikeRate": 131.47,
+        "centuries": 10,
+        "halfCenturies": 27
+      },
+      "bowlingStats": {
+        "matches": 151,
+        "innings": 0,
+        "wickets": 0,
+        "bestBowling": "N/A",
+        "average": "N/A",
+        "economy": "N/A",
+        "strikeRate": "N/A"
+      },
+      "fieldingStats": {
+        "catches": 246,
+        "runOuts": 15,
+        "stumpings": 40
+      },
+      "rating": 5
+    },
+    {
+      "id": "51",
+      "country": "Australia",
+      "playerName": "David Warner",
+      "role": "Batter",
+      "battingStyle": "Left-hand Bat",
+      "bowlingStyle": "None",
+      "dob": "Oct 27, 1986",
+      "age": "37",
+      "jerseyNo": "31",
+      "image": "https://www.cricbuzz.com/a/img/v1/1920x1080/i1/c237206/david-warner.jpg",
+      "about": "David Warner is one of Australia's most explosive openers, known for his aggressive batting style and his ability to dominate the opposition from the start.",
+      "battingStats": {
+        "matches": 121,
+        "innings": 219,
+        "runs": 8381,
+        "highestScore": "179",
+        "average": 48.26,
+        "strikeRate": 89.11,
+        "centuries": 23,
+        "halfCenturies": 38
+      },
+      "bowlingStats": {
+        "matches": 121,
+        "innings": 3,
+        "wickets": 0,
+        "bestBowling": "0/10",
+        "average": "N/A",
+        "economy": "N/A",
+        "strikeRate": "N/A"
+      },
+      "fieldingStats": {
+        "catches": 45,
+        "runOuts": 5,
+        "stumpings": 0
+      },
+      "rating": 4
+    },
+    {
+      "id": "52",
+      "country": "West Indies",
+      "playerName": "Shai Hope",
+      "role": "Batter",
+      "battingStyle": "Right-hand Bat",
+      "bowlingStyle": "None",
+      "dob": "Nov 10, 1993",
+      "age": "31",
+      "jerseyNo": "23",
+      "image": "https://www.cricbuzz.com/a/img/v1/1920x1080/i1/c237450/shai-hope.jpg",
+      "about": "Shai Hope is one of the brightest talents in West Indies cricket, known for his calm and composed batting in all formats, particularly in ODIs.",
+      "battingStats": {
+        "matches": 52,
+        "innings": 50,
+        "runs": 2301,
+        "highestScore": "170",
+        "average": 48.12,
+        "strikeRate": 72.11,
+        "centuries": 6,
+        "halfCenturies": 15
+      },
+      "bowlingStats": {
+        "matches": 52,
+        "innings": 0,
+        "wickets": 0,
+        "bestBowling": "N/A",
+        "average": "N/A",
+        "economy": "N/A",
+        "strikeRate": "N/A"
+      },
+      "fieldingStats": {
+        "catches": 28,
+        "runOuts": 3,
+        "stumpings": 0
+      },
+      "rating": 4
+    },
+    {
+      "id": "55",
+      "country": "Bangladesh",
+      "playerName": "Shakib Al Hasan",
+      "role": "All-rounder",
+      "battingStyle": "Left-hand Bat",
+      "bowlingStyle": "Left-arm Orthodox",
+      "dob": "Mar 24, 1987",
+      "age": "37",
+      "jerseyNo": "75",
+      "image": "https://www.cricbuzz.com/a/img/v1/1920x1080/i1/c237552/shakib-al-hasan.jpg",
+      "about": "Shakib Al Hasan is a world-class all-rounder and one of Bangladesh's most valuable players, excelling both with the bat and the ball in all formats.",
+      "battingStats": {
+        "matches": 224,
+        "innings": 209,
+        "runs": 6988,
+        "highestScore": "124",
+        "average": 36.54,
+        "strikeRate": 80.99,
+        "centuries": 9,
+        "halfCenturies": 47
+      },
+      "bowlingStats": {
+        "matches": 224,
+        "innings": 212,
+        "wickets": 283,
+        "bestBowling": "5/29",
+        "average": 29.41,
+        "economy": 4.15,
+        "strikeRate": 39.5
+      },
+      "fieldingStats": {
+        "catches": 145,
+        "runOuts": 13,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "56",
+      "country": "South Africa",
+      "playerName": "Quinton de Kock",
+      "role": "Wicketkeeper Batter",
+      "battingStyle": "Left-hand Bat",
+      "bowlingStyle": "None",
+      "dob": "Dec 17, 1992",
+      "age": "31",
+      "jerseyNo": "17",
+      "image": "https://www.cricbuzz.com/a/img/v1/1920x1080/i1/c237540/quinton-de-kock.jpg",
+      "about": "Quinton de Kock is one of the best wicketkeeper-batsmen in the world, known for his explosive batting and sharp glovework.",
+      "battingStats": {
+        "matches": 124,
+        "innings": 118,
+        "runs": 5507,
+        "highestScore": "178",
+        "average": 38.53,
+        "strikeRate": 87.9,
+        "centuries": 13,
+        "halfCenturies": 28
+      },
+      "bowlingStats": {
+        "matches": 124,
+        "innings": 0,
+        "wickets": 0,
+        "bestBowling": "N/A",
+        "average": "N/A",
+        "economy": "N/A",
+        "strikeRate": "N/A"
+      },
+      "fieldingStats": {
+        "catches": 209,
+        "runOuts": 15,
+        "stumpings": 25
+      },
+      "rating": 5
+    },
+    {
+      "id": "57",
+      "country": "Afghanistan",
+      "playerName": "Rashid Khan",
+      "role": "Bowler",
+      "battingStyle": "Right-hand Bat",
+      "bowlingStyle": "Right-arm Legbreak",
+      "dob": "Sep 20, 1998",
+      "age": "26",
+      "jerseyNo": "19",
+      "image": "https://www.cricbuzz.com/a/img/v1/1920x1080/i1/c237420/rashid-khan.jpg",
+      "about": "Rashid Khan is one of the finest leg-spinners in world cricket, known for his brilliant variations and ability to pick wickets in crucial moments.",
+      "battingStats": {
+        "matches": 77,
+        "innings": 42,
+        "runs": 372,
+        "highestScore": "23*",
+        "average": 15.5,
+        "strikeRate": 131.61,
+        "centuries": 0,
+        "halfCenturies": 0
+      },
+      "bowlingStats": {
+        "matches": 77,
+        "innings": 149,
+        "wickets": 143,
+        "bestBowling": "5/3",
+        "average": 19.39,
+        "economy": 5.04,
+        "strikeRate": 21.3
+      },
+      "fieldingStats": {
+        "catches": 45,
+        "runOuts": 4,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "58",
+      "country": "New Zealand",
+      "playerName": "Devon Conway",
+      "role": "Batter",
+      "battingStyle": "Left-hand Bat",
+      "bowlingStyle": "None",
+      "dob": "Jul 8, 1991",
+      "age": "33",
+      "jerseyNo": "22",
+      "image": "https://www.cricbuzz.com/a/img/v1/1920x1080/i1/c237485/devon-conway.jpg",
+      "about": "Devon Conway is an elegant top-order batter for New Zealand, known for his consistency and ability to anchor the innings in any format.",
+      "battingStats": {
+        "matches": 34,
+        "innings": 33,
+        "runs": 1504,
+        "highestScore": "122",
+        "average": 48.56,
+        "strikeRate": 76.45,
+        "centuries": 3,
+        "halfCenturies": 11
+      },
+      "bowlingStats": {
+        "matches": 34,
+        "innings": 0,
+        "wickets": 0,
+        "bestBowling": "N/A",
+        "average": "N/A",
+        "economy": "N/A",
+        "strikeRate": "N/A"
+      },
+      "fieldingStats": {
+        "catches": 52,
+        "runOuts": 4,
+        "stumpings": 0
+      },
+      "rating": 5
+    },
+    {
+      "id": "59",
+      "country": "Zimbabwe",
+      "playerName": "Sean Williams",
+      "role": "All-rounder",
+      "battingStyle": "Left-hand Bat",
+      "bowlingStyle": "Left-arm Orthodox",
+      "dob": "Sep 10, 1986",
+      "age": "38",
+      "jerseyNo": "8",
+      "image": "https://www.cricbuzz.com/a/img/v1/1920x1080/i1/c237406/sean-williams.jpg",
+      "about": "Sean Williams is a key all-rounder for Zimbabwe, known for his sharp left-arm spin and consistent batting in the middle order.",
+      "battingStats": {
+        "matches": 195,
+        "innings": 187,
+        "runs": 5103,
+        "highestScore": "145",
+        "average": 34.76,
+        "strikeRate": 69.85,
+        "centuries": 7,
+        "halfCenturies": 34
+      },
+      "bowlingStats": {
+        "matches": 195,
+        "innings": 118,
+        "wickets": 74,
+        "bestBowling": "4/39",
+        "average": 42.62,
+        "economy": 4.95,
+        "strikeRate": 61.4
+      },
+      "fieldingStats": {
+        "catches": 68,
+        "runOuts": 9,
+        "stumpings": 0
+      },
+      "rating": 4
+    }
+  ],
+  "userBlog": [
+    {
+      "id": "4a5f",
+      "title": "Mastering the Cricket Swing: A Beginner’s Guide",
+      "description": "Learn the fundamentals of the perfect cricket swing with tips, drills, and techniques for players of all levels. Enhance your batting skills and step up your game on the field."
+    },
+    {
+      "id": "8e3d",
+      "title": "Top Cricket Gear: Must-Have Equipment for Every Player",
+      "description": " From bats to pads, discover the best cricket gear that every player needs. Explore reviews, recommendations, and tips for choosing the right equipment to elevate your performance."
+    },
+    {
+      "id": "5176",
+      "title": "The Evolution of Cricket: From Test Matches to T20",
+      "description": "Dive into the rich history of cricket, tracing its evolution from traditional test matches to the fast-paced T20 format. Understand how the game has transformed over the years."
+    },
+    {
+      "id": "272d",
+      "title": "Cricket’s Most Iconic Rivalries: A Deep Dive",
+      "description": " Explore some of the greatest cricket rivalries in history. From India vs. Pakistan to Australia vs. England, discover what makes these matchups unforgettable for fans and players alike.20/06/2001"
+    },
+    {
+      "id": "d25c",
+      "title": "How to Improve Your Cricket Fitness: Training Tips for Peak Performance",
+      "description": "Boost your cricket fitness with tailored workout routines and exercises. Learn how to build strength, agility, and endurance to stay competitive on the pitch."
+    },
+    {
+      "id": "7ad4",
+      "title": "Kolkata",
+      "description": "Dream City"
+    },
+    {
+      "id": "2beb",
+      "title": "Kolkata",
+      "description": "Kolkata City"
+    }
+  ]
+}

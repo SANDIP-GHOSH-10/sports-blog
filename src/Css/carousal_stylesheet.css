@@ -1,0 +1,13 @@
+.banner-bottom {
+    position: absolute;
+    top: 36%;
+    color: #fff;
+    width: 100%;
+    text-align: center;
+    text-shadow: 2px 1px 2px #000;
+    background: #0000001b;
+    padding-bottom: 25px;
+}
+  .banner-top {
+    position: relative;
+  }
